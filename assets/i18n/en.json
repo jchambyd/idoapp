@@ -1,0 +1,76 @@
+{
+    "home": {
+        "title": "Welcome to IDO",
+        "text": "How can we help?",
+        "aviso_covid": "CORONAVIRUS - STAY CONNECTED!",
+        "card_saude": "HEALTH",
+        "card_mobilidade": "MOBILITY",
+        "card_lazer": "RECREATION",
+        "card_violencia": "VIOLENCE"
+    },
+    "menu": {
+    	"home": "Home",
+    	"sobre_nos": "About us",
+    	"contato": "Contact",
+    	"por_perto": "Next to me",
+    	"fechar": "Close",
+    	"idioma": "Language"
+    },
+    "saude": {
+    	"hospital": "HOSPITAL",
+    	"posto_saude": "HEALTH CENTER",
+    	"medicamento": "MEDICINE",
+    	"plano_saude": "HEALTH INSURANCE"
+    },
+    "mobilidade": {
+    	"transporte": "TRANSPORT",
+    	"na_rua": "IN THE STREET",
+    	"aeroporto": "AIRPORT",
+    	"rodoviaria": "HIGHWAY"
+    },
+    "lazer": {
+    	"ar_livre": "OPEN AIR",
+    	"cursos": "COURSES",
+    	"diversao": "FUN",
+    	"beneficios": "BENEFITS"
+   	},
+    "violencia": {
+    	"maus_tratos": "MISTREATMENT",
+    	"patrimonial": "EQUITY"
+    },
+    "por_perto": "List hospitals",
+    "atencao": "Attention",
+    "text_search": "Type your search",
+    "text_footer": "All rights reserved",
+    "text_voltar": "Back",
+    "covid": {
+    	"titulo": "CORONAVIRUS - STAY CONNECTED!",
+    	"sintomas_titulo": "What are the symptoms?",
+    	"sintomas_p": "The symptoms of COVID-19 can range from a simple cold to severe pneumonia. The most common symptoms are:",
+    	"sintomas_li1": "Cough",
+    	"sintomas_li2": "Fever ",
+    	"sintomas_li3": "Coryza ",
+    	"sintomas_li4": "Sore throat",
+    	"sintomas_li5": "Difficulty breathing",
+    	"transmissao_titulo": "How is it transmitted?",
+    	"transmissao_p": "Transmission occurs from one sick person to another or through close contact through:",
+    	"transmissao_li1": "Handshake touch",
+    	"transmissao_li2": "Droplets of saliva",
+    	"transmissao_li3": "Sneeze",
+    	"transmissao_li4": "Cough",
+    	"transmissao_li5": "Catarrh",
+    	"transmissao_li6": "Contaminated objects or surfaces, such as cell phones, tables, door handles, toys, computer keyboards, etc.",
+    	"servico_saude": "Health Service",
+    	"servico_saude_p": "Call a health service only if you experience shortness of breath.",
+		"servico_saude_li1": "List of hospitals providing care in your state/municipality.",
+    	"servico_saude_li2": "List of health centers that provide care in your state/municipality.",
+    	"servico_saude_li3": "Public coronavirus testing reference laboratories"
+    },
+    "sobre": {
+    	"titulo": "About IDO",
+    	"texto": "Ido is a digital platform developed to elderly people, in which \"step by step\" journeys help them making clearer decisions regarding their rights. team is composed of professionals from both law and technological fields, compromised with the empowerment and wellbeing of these citizens."
+    },
+    "btn_nao_resolvido": "Unsolved issue",
+    "btn_resolvido": "Problem solved",
+    "lbl_embreve": "Coming soon"
+}

@@ -1,0 +1,76 @@
+{
+    "home": {
+        "title": "Bem-vindo ao IDO",
+        "text": "Como podemos ajudar?",
+        "aviso_covid": "CORONAVIRUS - FIQUE LIGADO!",
+        "card_saude": "SAÚDE",
+        "card_mobilidade": "MOBILIDADE",
+        "card_lazer": "LAZER",
+        "card_violencia": "VIOLÊNCIA"
+    },
+    "menu": {
+    	"home": "Home",
+    	"sobre_nos": "Sobre nós",
+    	"contato": "Contato",
+    	"por_perto": "Por perto",
+    	"fechar": "Fechar",
+    	"idioma": "Idioma"
+    },
+    "saude": {
+    	"hospital": "HOSPITAL",
+    	"posto_saude": "POSTO DE SAÚDE",
+    	"medicamento": "MEDICAMENTO",
+    	"plano_saude": "PLANO DE SAÚDE"
+    },
+    "mobilidade": {
+    	"transporte": "TRANSPORTE",
+    	"na_rua": "NA RUA",
+    	"aeroporto": "AEROPORTO",
+    	"rodoviaria": "RODOVIÁRIA"
+    },
+    "lazer": {
+    	"ar_livre": "AR LIVRE",
+    	"cursos": "CURSOS",
+    	"diversao": "DIVERSÃO",
+    	"beneficios": "BENEFÍCIOS"
+   	},
+    "violencia": {
+    	"maus_tratos": "MAUS TRATOS",
+    	"patrimonial": "PATRIMONIAL"
+    },
+    "por_perto": "Listar hospitais",
+    "atencao": "Atenção",
+    "text_search": "Digite sua busca",
+    "text_footer": "Todos os direitos reservados",
+    "text_voltar": "Voltar",
+    "covid": {
+    	"titulo": "CORONA VÍRUS - FIQUE LIGADO!",
+    	"sintomas_titulo": "Quais são os sintomas?",
+    	"sintomas_p": "Os sintomas da COVID-19 podem variar de um simples resfriado até uma pneumonia severa. Sendo os sintomas mais comuns:",
+    	"sintomas_li1": "Tosse",
+    	"sintomas_li2": "Febre ",
+    	"sintomas_li3": "Coriza ",
+    	"sintomas_li4": "Dor de garganta",
+    	"sintomas_li5": "Dificuldade para respirar",
+    	"transmissao_titulo": "Como é transmitido?",
+    	"transmissao_p": "A transmissão acontece de uma pessoa doente para outra ou por contato próximo por meio de:",
+    	"transmissao_li1": "Toque do aperto de mão",
+    	"transmissao_li2": "Gotículas de saliva",
+    	"transmissao_li3": "Espirro",
+    	"transmissao_li4": "Tosse",
+    	"transmissao_li5": "Catarro",
+    	"transmissao_li6": "Objetos ou superfícies contaminadas, como celulares, mesas, maçanetas, brinquedos, teclados de computador etc",
+    	"servico_saude": "Serviço de Saúde",
+    	"servico_saude_p": "Procure um serviço de saúde apenas se apresentar falta de ar.",
+    	"servico_saude_li1": "Lista de hospitais que prestam atendimento em seu estado/município.",
+    	"servico_saude_li2": "Lista dos postos de saúde que prestam atendimento em seu estado/município.",
+    	"servico_saude_li3": "Laboratórios públicos de referência de testagem para coronavírus"
+    },
+    "sobre": {
+    	"titulo": "Sobre o IDO",
+    	"texto": "Ido é um aplicativo voltado para os idosos. Nosso propósito é auxiliar pessoas com idade igual ou superior a 60 anos a efetivar os seus direitos, através da proposição de jornadas que simplifiquem a tomada de decisões assertivas. Nosso time é formado por pessoas da área jurídica e da tecnologia, comprometidos com o empoderamento e bem-estar das pessoas idosas."
+    },
+    "btn_nao_resolvido": "Problema não resolvido",
+    "btn_resolvido": "Problema resolvido",
+    "lbl_embreve": "Em breve"
+}
